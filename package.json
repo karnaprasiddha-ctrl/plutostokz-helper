@@ -1,0 +1,19 @@
+{
+  "name": "plutostokz-helper",
+  "version": "1.0.0",
+  "description": "Plutostokz Helper - premium Discord commerce/support bot powered by SellAuth",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "node-fetch": "^2.7.0"
+  },
+  "license": "MIT"
+}
